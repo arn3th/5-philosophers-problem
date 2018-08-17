@@ -1,0 +1,4 @@
+Rozwiązanie problemu pięciu ucztujących filozofów za pomocą języka Go.
+Wykorzystano dwa sposoby:
+- z kanałem buforowanym mogącym pomieścić 4 struktury 
+- z asynchronicznym podnoszeniem widelców przez jednego z filozofów
